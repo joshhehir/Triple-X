@@ -1,2 +1,2 @@
-# Tripple-X
-Tripple X game created by myself based on a Udemy tutorial
+# Triple-X
+Triple X game created by myself based on a Udemy tutorial
